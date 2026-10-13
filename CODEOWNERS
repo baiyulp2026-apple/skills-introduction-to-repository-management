@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @baiyulp2026-apple
+/src/backend/database.py      @baiyulp2026-apple
+/src/backend/routers/auth.py  @baiyulp2026-apple
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @baiyulp2026-apple
